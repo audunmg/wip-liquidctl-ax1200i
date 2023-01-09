@@ -1,3 +1,10 @@
+
+## Update 2023-01-06
+
+My AX1200i finally gave up the ghost, probably due to lightning. Unless I'm able to fix it (unlikely), I won't be able to continue this.
+
+I'll leave this up in case anyone else wants to pick it up.
+
 # Work-in-progress liquidctl driver for AX1200i
 
 For now, works on linux only, but that's only because of how the serial port is opened.
